@@ -28,6 +28,11 @@ Additionally, if you wish to run the plugin every time it is built:
 npm run start
 ```
 
+### Publish
+
+1. Modify `version` in package.json
+2. Run `skpm publish $npm_package_version`
+
 ## Custom Configuration
 
 ### Babel
